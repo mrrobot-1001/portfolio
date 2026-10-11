@@ -1,0 +1,2346 @@
+{
+  "generatedAt": "2026-10-11T11:57:26.597Z",
+  "profile": {
+    "login": "mrrobot-1001",
+    "name": "Harsh Rana",
+    "bio": "Full Stack Developer \r\nTraining models. Scaling systems. Solving real problems.  \r\nAI/ML • Full Stack • System Design",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128961755?v=4",
+    "htmlUrl": "https://github.com/mrrobot-1001",
+    "publicRepos": 34,
+    "followers": 5,
+    "createdAt": "2023-03-26T07:57:38Z"
+  },
+  "repos": [
+    {
+      "name": "Weber-CRM",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/Weber-CRM",
+      "homepage": "https://weber-crm.vercel.app",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 228009,
+        "JavaScript": 11683,
+        "CSS": 3110
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 187,
+      "pushedAt": "2026-10-11T09:46:03Z",
+      "createdAt": "2026-02-05T07:37:31Z"
+    },
+    {
+      "name": "projectshowcasefullstack",
+      "description": "University project showcase: team submissions, per-category voting, judge scoring, winners and an audited admin panel. Next.js 16 · React 19 · PostgreSQL · Docker.",
+      "htmlUrl": "https://github.com/mrrobot-1001/projectshowcasefullstack",
+      "homepage": "https://showcase.kiraserver.live",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 307398,
+        "PLpgSQL": 7637,
+        "CSS": 6192,
+        "JavaScript": 6068,
+        "Dockerfile": 823
+      },
+      "topics": [
+        "docker",
+        "full-stack",
+        "hackathon",
+        "judging",
+        "nextjs",
+        "postgresql",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "voting"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 6192,
+      "pushedAt": "2026-10-11T09:34:14Z",
+      "createdAt": "2025-11-19T13:33:21Z"
+    },
+    {
+      "name": "Buconnect",
+      "description": "Alumni & student network: posts, mutual connections, messaging and notifications. Next.js 16 · PostgreSQL · Prisma · Docker.",
+      "htmlUrl": "https://github.com/mrrobot-1001/Buconnect",
+      "homepage": "https://buconnect.kiraserver.live",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 464253,
+        "CSS": 5844,
+        "Dockerfile": 1037,
+        "JavaScript": 135
+      },
+      "topics": [
+        "alumni-network",
+        "docker",
+        "full-stack",
+        "nextjs",
+        "postgresql",
+        "prisma",
+        "react",
+        "social-network",
+        "tailwindcss",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 1792,
+      "pushedAt": "2026-10-11T08:11:47Z",
+      "createdAt": "2025-11-03T03:16:00Z"
+    },
+    {
+      "name": "mrrobot-1001",
+      "description": "Profile README",
+      "htmlUrl": "https://github.com/mrrobot-1001/mrrobot-1001",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 0,
+      "pushedAt": "2026-10-05T09:09:33Z",
+      "createdAt": "2026-10-05T08:30:30Z"
+    },
+    {
+      "name": "mrrobot-1001.github.io",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/mrrobot-1001.github.io",
+      "homepage": null,
+      "language": "HTML",
+      "languages": {
+        "HTML": 6673
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 3,
+      "pushedAt": "2026-10-05T05:01:03Z",
+      "createdAt": "2024-10-16T04:37:28Z"
+    },
+    {
+      "name": "itzfizz-scroll-hero",
+      "description": "Scroll-driven hero section animation — Next.js, Tailwind CSS & GSAP ScrollTrigger",
+      "htmlUrl": "https://github.com/mrrobot-1001/itzfizz-scroll-hero",
+      "homepage": "https://mrrobot-1001.github.io/itzfizz-scroll-hero/",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 18000,
+        "CSS": 1457,
+        "JavaScript": 559
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 77,
+      "pushedAt": "2026-10-04T06:31:01Z",
+      "createdAt": "2026-10-04T06:20:13Z"
+    },
+    {
+      "name": "voucher-generator",
+      "description": "QR enrollment voucher generator",
+      "htmlUrl": "https://github.com/mrrobot-1001/voucher-generator",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 4594
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 8,
+      "pushedAt": "2026-09-23T09:36:29Z",
+      "createdAt": "2026-09-23T09:28:45Z"
+    },
+    {
+      "name": "leetcode-solving",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/leetcode-solving",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 778
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 1,
+      "pushedAt": "2026-09-23T09:01:38Z",
+      "createdAt": "2026-09-23T07:38:00Z"
+    },
+    {
+      "name": "MARS",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/MARS",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 76900,
+        "TypeScript": 67310,
+        "Jupyter Notebook": 43610,
+        "CSS": 18323,
+        "HTML": 844,
+        "Dockerfile": 359,
+        "Shell": 188
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 20860,
+      "pushedAt": "2026-06-14T15:29:29Z",
+      "createdAt": "2026-06-13T06:07:25Z"
+    },
+    {
+      "name": "expensify",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/expensify",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 0,
+      "pushedAt": "2026-06-13T17:02:03Z",
+      "createdAt": "2026-06-13T17:02:02Z"
+    },
+    {
+      "name": "TradeBot",
+      "description": "Simplified Trading Bot (Binance Futures Testnet)",
+      "htmlUrl": "https://github.com/mrrobot-1001/TradeBot",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 52086
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 23,
+      "pushedAt": "2026-05-08T14:57:25Z",
+      "createdAt": "2026-05-08T14:19:31Z"
+    },
+    {
+      "name": "morale",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/morale",
+      "homepage": "https://morale-nine.vercel.app",
+      "language": "CSS",
+      "languages": {
+        "CSS": 67502,
+        "TypeScript": 63295,
+        "JavaScript": 465,
+        "HTML": 53
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 3186,
+      "pushedAt": "2026-01-02T04:53:50Z",
+      "createdAt": "2025-12-09T15:08:56Z"
+    },
+    {
+      "name": "cognition",
+      "description": "Private AI notes app",
+      "htmlUrl": "https://github.com/mrrobot-1001/cognition",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 1046214,
+        "TypeScript": 183665,
+        "CSS": 14917,
+        "Rust": 12893,
+        "HTML": 666
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 828,
+      "pushedAt": "2025-12-31T19:01:31Z",
+      "createdAt": "2025-12-30T17:03:32Z"
+    },
+    {
+      "name": "IDP-machine-learning",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/IDP-machine-learning",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 173022,
+        "TypeScript": 35478,
+        "CSS": 3168,
+        "Shell": 2229,
+        "JavaScript": 1100
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 120,
+      "pushedAt": "2025-12-08T10:42:18Z",
+      "createdAt": "2025-12-04T18:30:25Z"
+    },
+    {
+      "name": "Negative-Meme-detection--hindi-",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/Negative-Meme-detection--hindi-",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 60427,
+        "HTML": 9977,
+        "JavaScript": 5095,
+        "CSS": 1182
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 30,
+      "pushedAt": "2025-12-04T19:19:48Z",
+      "createdAt": "2025-12-04T18:33:53Z"
+    },
+    {
+      "name": "budget-allocation",
+      "description": "Simple budget allocation app in react",
+      "htmlUrl": "https://github.com/mrrobot-1001/budget-allocation",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 18204,
+        "HTML": 1721,
+        "CSS": 930
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 277,
+      "pushedAt": "2025-11-04T10:47:15Z",
+      "createdAt": "2023-07-06T04:20:16Z"
+    },
+    {
+      "name": "MCQ-Test-Generator-Gemini-",
+      "description": "🚀 Built an AI-powered MCQ Test Generator App using Next.js & Gemini API! Just input a prompt, select difficulty & number of questions — the app generates relevant MCQs, conducts the test interactively, and shows a result summary at the end. Perfect for quick assessments & smart learning!",
+      "htmlUrl": "https://github.com/mrrobot-1001/MCQ-Test-Generator-Gemini-",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 192585,
+        "CSS": 4425,
+        "JavaScript": 363
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 96,
+      "pushedAt": "2025-05-20T07:13:36Z",
+      "createdAt": "2025-05-20T07:11:20Z"
+    },
+    {
+      "name": "DCLink",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/DCLink",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 221705,
+        "CSS": 1890,
+        "JavaScript": 297
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 135047,
+      "pushedAt": "2025-02-06T16:41:06Z",
+      "createdAt": "2024-12-09T04:22:05Z"
+    },
+    {
+      "name": "Digital_library_v2.0",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/Digital_library_v2.0",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 156075,
+        "CSS": 59997,
+        "HTML": 16311
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 290571,
+      "pushedAt": "2024-12-04T02:00:33Z",
+      "createdAt": "2024-11-04T16:29:09Z"
+    },
+    {
+      "name": "DCES-backend",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/DCES-backend",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 9259
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 29,
+      "pushedAt": "2024-10-21T15:50:26Z",
+      "createdAt": "2024-09-18T17:43:05Z"
+    },
+    {
+      "name": "src",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/src",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 165835,
+        "TypeScript": 95638,
+        "HTML": 1795,
+        "CSS": 880
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 6718,
+      "pushedAt": "2024-10-19T14:09:41Z",
+      "createdAt": "2024-10-19T14:09:28Z"
+    },
+    {
+      "name": "sample-project",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/sample-project",
+      "homepage": "https://manvidia.vercel.app",
+      "language": "HTML",
+      "languages": {
+        "HTML": 6673
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 2,
+      "pushedAt": "2024-10-16T04:33:50Z",
+      "createdAt": "2024-10-16T04:25:27Z"
+    },
+    {
+      "name": "trade-app",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/trade-app",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 4321
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 1,
+      "fork": false,
+      "archived": false,
+      "size": 12,
+      "pushedAt": "2024-10-12T12:42:37Z",
+      "createdAt": "2024-10-12T12:39:28Z"
+    },
+    {
+      "name": "DCES",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/DCES",
+      "homepage": "https://dces-beta.vercel.app",
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 15291,
+        "HTML": 1859,
+        "CSS": 625
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 191,
+      "pushedAt": "2024-09-23T16:28:40Z",
+      "createdAt": "2024-09-18T17:25:21Z"
+    },
+    {
+      "name": "sgi-web",
+      "description": "website demo",
+      "htmlUrl": "https://github.com/mrrobot-1001/sgi-web",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 0,
+      "pushedAt": "2024-04-27T09:35:02Z",
+      "createdAt": "2024-04-27T09:35:02Z"
+    },
+    {
+      "name": "sgi",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/sgi",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 0,
+      "pushedAt": "2024-04-27T09:34:24Z",
+      "createdAt": "2024-04-27T09:34:24Z"
+    },
+    {
+      "name": "Digital_library_main",
+      "description": "A digital library web app created with reactjs,nodejs,mysql and core css ",
+      "htmlUrl": "https://github.com/mrrobot-1001/Digital_library_main",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 127438,
+        "CSS": 52282,
+        "HTML": 14213
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 43782,
+      "pushedAt": "2023-11-05T09:58:20Z",
+      "createdAt": "2023-11-05T09:35:45Z"
+    },
+    {
+      "name": "expressBookReviews",
+      "description": "nodejsFinalModule",
+      "htmlUrl": "https://github.com/mrrobot-1001/expressBookReviews",
+      "homepage": null,
+      "language": "JavaScript",
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "archived": false,
+      "size": 59,
+      "pushedAt": "2023-07-18T12:50:27Z",
+      "createdAt": "2023-07-17T13:21:06Z"
+    },
+    {
+      "name": "kduia-shopping-app",
+      "description": "shopping-app",
+      "htmlUrl": "https://github.com/mrrobot-1001/kduia-shopping-app",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "archived": false,
+      "size": 30,
+      "pushedAt": "2023-06-27T06:45:34Z",
+      "createdAt": "2023-07-03T07:41:41Z"
+    },
+    {
+      "name": "uqwxd-react_labs",
+      "description": "react_todolist",
+      "htmlUrl": "https://github.com/mrrobot-1001/uqwxd-react_labs",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "archived": false,
+      "size": 656,
+      "pushedAt": "2023-06-11T03:13:37Z",
+      "createdAt": "2023-06-13T09:37:39Z"
+    },
+    {
+      "name": "jbbmo-Introduction-to-Git-and-GitHub",
+      "description": "Introduction to Git and GitHub",
+      "htmlUrl": "https://github.com/mrrobot-1001/jbbmo-Introduction-to-Git-and-GitHub",
+      "homepage": null,
+      "language": "Python",
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "archived": false,
+      "size": 13,
+      "pushedAt": "2023-06-09T03:59:55Z",
+      "createdAt": "2023-06-09T03:48:03Z"
+    },
+    {
+      "name": "github-final-project",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/github-final-project",
+      "homepage": null,
+      "language": "Shell",
+      "languages": {
+        "Shell": 633
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 12,
+      "pushedAt": "2023-06-08T12:14:31Z",
+      "createdAt": "2023-06-08T09:16:17Z"
+    },
+    {
+      "name": "gkpbt-css-circle",
+      "description": "css-circle",
+      "htmlUrl": "https://github.com/mrrobot-1001/gkpbt-css-circle",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "archived": false,
+      "size": 8,
+      "pushedAt": "2023-06-08T00:04:44Z",
+      "createdAt": "2023-06-08T07:09:31Z"
+    },
+    {
+      "name": "testing-ibm",
+      "description": null,
+      "htmlUrl": "https://github.com/mrrobot-1001/testing-ibm",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 23
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "size": 2,
+      "pushedAt": "2023-06-06T06:46:04Z",
+      "createdAt": "2023-06-06T06:24:29Z"
+    }
+  ],
+  "languages": {
+    "TypeScript": 1877336,
+    "JavaScript": 1572996,
+    "CSS": 242724,
+    "PLpgSQL": 7637,
+    "Dockerfile": 2219,
+    "HTML": 60785,
+    "Python": 363236,
+    "Jupyter Notebook": 43610,
+    "Shell": 3050,
+    "Rust": 12893
+  },
+  "contributions": {
+    "total": 392,
+    "weeks": [
+      [
+        [
+          "2025-10-12",
+          0
+        ],
+        [
+          "2025-10-13",
+          0
+        ],
+        [
+          "2025-10-14",
+          0
+        ],
+        [
+          "2025-10-15",
+          0
+        ],
+        [
+          "2025-10-16",
+          0
+        ],
+        [
+          "2025-10-17",
+          0
+        ],
+        [
+          "2025-10-18",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-10-19",
+          0
+        ],
+        [
+          "2025-10-20",
+          0
+        ],
+        [
+          "2025-10-21",
+          0
+        ],
+        [
+          "2025-10-22",
+          0
+        ],
+        [
+          "2025-10-23",
+          0
+        ],
+        [
+          "2025-10-24",
+          0
+        ],
+        [
+          "2025-10-25",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-10-26",
+          0
+        ],
+        [
+          "2025-10-27",
+          0
+        ],
+        [
+          "2025-10-28",
+          0
+        ],
+        [
+          "2025-10-29",
+          0
+        ],
+        [
+          "2025-10-30",
+          0
+        ],
+        [
+          "2025-10-31",
+          0
+        ],
+        [
+          "2025-11-01",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-02",
+          0
+        ],
+        [
+          "2025-11-03",
+          1
+        ],
+        [
+          "2025-11-04",
+          0
+        ],
+        [
+          "2025-11-05",
+          8
+        ],
+        [
+          "2025-11-06",
+          1
+        ],
+        [
+          "2025-11-07",
+          0
+        ],
+        [
+          "2025-11-08",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-09",
+          0
+        ],
+        [
+          "2025-11-10",
+          0
+        ],
+        [
+          "2025-11-11",
+          0
+        ],
+        [
+          "2025-11-12",
+          0
+        ],
+        [
+          "2025-11-13",
+          0
+        ],
+        [
+          "2025-11-14",
+          0
+        ],
+        [
+          "2025-11-15",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-16",
+          0
+        ],
+        [
+          "2025-11-17",
+          0
+        ],
+        [
+          "2025-11-18",
+          0
+        ],
+        [
+          "2025-11-19",
+          17
+        ],
+        [
+          "2025-11-20",
+          66
+        ],
+        [
+          "2025-11-21",
+          26
+        ],
+        [
+          "2025-11-22",
+          2
+        ]
+      ],
+      [
+        [
+          "2025-11-23",
+          0
+        ],
+        [
+          "2025-11-24",
+          5
+        ],
+        [
+          "2025-11-25",
+          5
+        ],
+        [
+          "2025-11-26",
+          2
+        ],
+        [
+          "2025-11-27",
+          4
+        ],
+        [
+          "2025-11-28",
+          0
+        ],
+        [
+          "2025-11-29",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-11-30",
+          0
+        ],
+        [
+          "2025-12-01",
+          0
+        ],
+        [
+          "2025-12-02",
+          7
+        ],
+        [
+          "2025-12-03",
+          0
+        ],
+        [
+          "2025-12-04",
+          1
+        ],
+        [
+          "2025-12-05",
+          6
+        ],
+        [
+          "2025-12-06",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-12-07",
+          0
+        ],
+        [
+          "2025-12-08",
+          1
+        ],
+        [
+          "2025-12-09",
+          3
+        ],
+        [
+          "2025-12-10",
+          3
+        ],
+        [
+          "2025-12-11",
+          0
+        ],
+        [
+          "2025-12-12",
+          1
+        ],
+        [
+          "2025-12-13",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-12-14",
+          0
+        ],
+        [
+          "2025-12-15",
+          0
+        ],
+        [
+          "2025-12-16",
+          0
+        ],
+        [
+          "2025-12-17",
+          0
+        ],
+        [
+          "2025-12-18",
+          0
+        ],
+        [
+          "2025-12-19",
+          0
+        ],
+        [
+          "2025-12-20",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-12-21",
+          0
+        ],
+        [
+          "2025-12-22",
+          0
+        ],
+        [
+          "2025-12-23",
+          0
+        ],
+        [
+          "2025-12-24",
+          0
+        ],
+        [
+          "2025-12-25",
+          11
+        ],
+        [
+          "2025-12-26",
+          0
+        ],
+        [
+          "2025-12-27",
+          0
+        ]
+      ],
+      [
+        [
+          "2025-12-28",
+          0
+        ],
+        [
+          "2025-12-29",
+          0
+        ],
+        [
+          "2025-12-30",
+          4
+        ],
+        [
+          "2025-12-31",
+          3
+        ],
+        [
+          "2026-01-01",
+          8
+        ],
+        [
+          "2026-01-02",
+          2
+        ],
+        [
+          "2026-01-03",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-01-04",
+          0
+        ],
+        [
+          "2026-01-05",
+          0
+        ],
+        [
+          "2026-01-06",
+          0
+        ],
+        [
+          "2026-01-07",
+          0
+        ],
+        [
+          "2026-01-08",
+          0
+        ],
+        [
+          "2026-01-09",
+          0
+        ],
+        [
+          "2026-01-10",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-01-11",
+          0
+        ],
+        [
+          "2026-01-12",
+          0
+        ],
+        [
+          "2026-01-13",
+          0
+        ],
+        [
+          "2026-01-14",
+          0
+        ],
+        [
+          "2026-01-15",
+          0
+        ],
+        [
+          "2026-01-16",
+          0
+        ],
+        [
+          "2026-01-17",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-01-18",
+          0
+        ],
+        [
+          "2026-01-19",
+          0
+        ],
+        [
+          "2026-01-20",
+          0
+        ],
+        [
+          "2026-01-21",
+          0
+        ],
+        [
+          "2026-01-22",
+          1
+        ],
+        [
+          "2026-01-23",
+          0
+        ],
+        [
+          "2026-01-24",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-01-25",
+          0
+        ],
+        [
+          "2026-01-26",
+          0
+        ],
+        [
+          "2026-01-27",
+          0
+        ],
+        [
+          "2026-01-28",
+          0
+        ],
+        [
+          "2026-01-29",
+          0
+        ],
+        [
+          "2026-01-30",
+          0
+        ],
+        [
+          "2026-01-31",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-02-01",
+          0
+        ],
+        [
+          "2026-02-02",
+          0
+        ],
+        [
+          "2026-02-03",
+          0
+        ],
+        [
+          "2026-02-04",
+          0
+        ],
+        [
+          "2026-02-05",
+          3
+        ],
+        [
+          "2026-02-06",
+          0
+        ],
+        [
+          "2026-02-07",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-02-08",
+          0
+        ],
+        [
+          "2026-02-09",
+          2
+        ],
+        [
+          "2026-02-10",
+          0
+        ],
+        [
+          "2026-02-11",
+          0
+        ],
+        [
+          "2026-02-12",
+          0
+        ],
+        [
+          "2026-02-13",
+          0
+        ],
+        [
+          "2026-02-14",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-02-15",
+          0
+        ],
+        [
+          "2026-02-16",
+          0
+        ],
+        [
+          "2026-02-17",
+          0
+        ],
+        [
+          "2026-02-18",
+          0
+        ],
+        [
+          "2026-02-19",
+          0
+        ],
+        [
+          "2026-02-20",
+          0
+        ],
+        [
+          "2026-02-21",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-02-22",
+          0
+        ],
+        [
+          "2026-02-23",
+          0
+        ],
+        [
+          "2026-02-24",
+          0
+        ],
+        [
+          "2026-02-25",
+          0
+        ],
+        [
+          "2026-02-26",
+          0
+        ],
+        [
+          "2026-02-27",
+          0
+        ],
+        [
+          "2026-02-28",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-03-01",
+          0
+        ],
+        [
+          "2026-03-02",
+          0
+        ],
+        [
+          "2026-03-03",
+          4
+        ],
+        [
+          "2026-03-04",
+          0
+        ],
+        [
+          "2026-03-05",
+          0
+        ],
+        [
+          "2026-03-06",
+          0
+        ],
+        [
+          "2026-03-07",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-03-08",
+          0
+        ],
+        [
+          "2026-03-09",
+          0
+        ],
+        [
+          "2026-03-10",
+          0
+        ],
+        [
+          "2026-03-11",
+          0
+        ],
+        [
+          "2026-03-12",
+          0
+        ],
+        [
+          "2026-03-13",
+          0
+        ],
+        [
+          "2026-03-14",
+          1
+        ]
+      ],
+      [
+        [
+          "2026-03-15",
+          0
+        ],
+        [
+          "2026-03-16",
+          0
+        ],
+        [
+          "2026-03-17",
+          0
+        ],
+        [
+          "2026-03-18",
+          0
+        ],
+        [
+          "2026-03-19",
+          0
+        ],
+        [
+          "2026-03-20",
+          0
+        ],
+        [
+          "2026-03-21",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-03-22",
+          0
+        ],
+        [
+          "2026-03-23",
+          2
+        ],
+        [
+          "2026-03-24",
+          0
+        ],
+        [
+          "2026-03-25",
+          0
+        ],
+        [
+          "2026-03-26",
+          0
+        ],
+        [
+          "2026-03-27",
+          0
+        ],
+        [
+          "2026-03-28",
+          1
+        ]
+      ],
+      [
+        [
+          "2026-03-29",
+          0
+        ],
+        [
+          "2026-03-30",
+          0
+        ],
+        [
+          "2026-03-31",
+          0
+        ],
+        [
+          "2026-04-01",
+          4
+        ],
+        [
+          "2026-04-02",
+          7
+        ],
+        [
+          "2026-04-03",
+          7
+        ],
+        [
+          "2026-04-04",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-04-05",
+          0
+        ],
+        [
+          "2026-04-06",
+          0
+        ],
+        [
+          "2026-04-07",
+          0
+        ],
+        [
+          "2026-04-08",
+          0
+        ],
+        [
+          "2026-04-09",
+          0
+        ],
+        [
+          "2026-04-10",
+          0
+        ],
+        [
+          "2026-04-11",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-04-12",
+          2
+        ],
+        [
+          "2026-04-13",
+          0
+        ],
+        [
+          "2026-04-14",
+          0
+        ],
+        [
+          "2026-04-15",
+          0
+        ],
+        [
+          "2026-04-16",
+          0
+        ],
+        [
+          "2026-04-17",
+          0
+        ],
+        [
+          "2026-04-18",
+          2
+        ]
+      ],
+      [
+        [
+          "2026-04-19",
+          0
+        ],
+        [
+          "2026-04-20",
+          0
+        ],
+        [
+          "2026-04-21",
+          2
+        ],
+        [
+          "2026-04-22",
+          0
+        ],
+        [
+          "2026-04-23",
+          0
+        ],
+        [
+          "2026-04-24",
+          0
+        ],
+        [
+          "2026-04-25",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-04-26",
+          6
+        ],
+        [
+          "2026-04-27",
+          0
+        ],
+        [
+          "2026-04-28",
+          0
+        ],
+        [
+          "2026-04-29",
+          0
+        ],
+        [
+          "2026-04-30",
+          0
+        ],
+        [
+          "2026-05-01",
+          0
+        ],
+        [
+          "2026-05-02",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-03",
+          1
+        ],
+        [
+          "2026-05-04",
+          0
+        ],
+        [
+          "2026-05-05",
+          0
+        ],
+        [
+          "2026-05-06",
+          0
+        ],
+        [
+          "2026-05-07",
+          0
+        ],
+        [
+          "2026-05-08",
+          7
+        ],
+        [
+          "2026-05-09",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-10",
+          0
+        ],
+        [
+          "2026-05-11",
+          0
+        ],
+        [
+          "2026-05-12",
+          0
+        ],
+        [
+          "2026-05-13",
+          0
+        ],
+        [
+          "2026-05-14",
+          0
+        ],
+        [
+          "2026-05-15",
+          0
+        ],
+        [
+          "2026-05-16",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-17",
+          0
+        ],
+        [
+          "2026-05-18",
+          0
+        ],
+        [
+          "2026-05-19",
+          0
+        ],
+        [
+          "2026-05-20",
+          0
+        ],
+        [
+          "2026-05-21",
+          0
+        ],
+        [
+          "2026-05-22",
+          0
+        ],
+        [
+          "2026-05-23",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-24",
+          0
+        ],
+        [
+          "2026-05-25",
+          0
+        ],
+        [
+          "2026-05-26",
+          0
+        ],
+        [
+          "2026-05-27",
+          0
+        ],
+        [
+          "2026-05-28",
+          0
+        ],
+        [
+          "2026-05-29",
+          0
+        ],
+        [
+          "2026-05-30",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-05-31",
+          0
+        ],
+        [
+          "2026-06-01",
+          0
+        ],
+        [
+          "2026-06-02",
+          0
+        ],
+        [
+          "2026-06-03",
+          0
+        ],
+        [
+          "2026-06-04",
+          0
+        ],
+        [
+          "2026-06-05",
+          0
+        ],
+        [
+          "2026-06-06",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-06-07",
+          0
+        ],
+        [
+          "2026-06-08",
+          0
+        ],
+        [
+          "2026-06-09",
+          0
+        ],
+        [
+          "2026-06-10",
+          0
+        ],
+        [
+          "2026-06-11",
+          0
+        ],
+        [
+          "2026-06-12",
+          0
+        ],
+        [
+          "2026-06-13",
+          3
+        ]
+      ],
+      [
+        [
+          "2026-06-14",
+          2
+        ],
+        [
+          "2026-06-15",
+          0
+        ],
+        [
+          "2026-06-16",
+          0
+        ],
+        [
+          "2026-06-17",
+          0
+        ],
+        [
+          "2026-06-18",
+          0
+        ],
+        [
+          "2026-06-19",
+          0
+        ],
+        [
+          "2026-06-20",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-06-21",
+          1
+        ],
+        [
+          "2026-06-22",
+          0
+        ],
+        [
+          "2026-06-23",
+          0
+        ],
+        [
+          "2026-06-24",
+          0
+        ],
+        [
+          "2026-06-25",
+          0
+        ],
+        [
+          "2026-06-26",
+          0
+        ],
+        [
+          "2026-06-27",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-06-28",
+          1
+        ],
+        [
+          "2026-06-29",
+          0
+        ],
+        [
+          "2026-06-30",
+          0
+        ],
+        [
+          "2026-07-01",
+          0
+        ],
+        [
+          "2026-07-02",
+          0
+        ],
+        [
+          "2026-07-03",
+          4
+        ],
+        [
+          "2026-07-04",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-07-05",
+          0
+        ],
+        [
+          "2026-07-06",
+          0
+        ],
+        [
+          "2026-07-07",
+          0
+        ],
+        [
+          "2026-07-08",
+          0
+        ],
+        [
+          "2026-07-09",
+          0
+        ],
+        [
+          "2026-07-10",
+          0
+        ],
+        [
+          "2026-07-11",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-07-12",
+          0
+        ],
+        [
+          "2026-07-13",
+          0
+        ],
+        [
+          "2026-07-14",
+          0
+        ],
+        [
+          "2026-07-15",
+          0
+        ],
+        [
+          "2026-07-16",
+          0
+        ],
+        [
+          "2026-07-17",
+          0
+        ],
+        [
+          "2026-07-18",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-07-19",
+          0
+        ],
+        [
+          "2026-07-20",
+          0
+        ],
+        [
+          "2026-07-21",
+          0
+        ],
+        [
+          "2026-07-22",
+          0
+        ],
+        [
+          "2026-07-23",
+          0
+        ],
+        [
+          "2026-07-24",
+          0
+        ],
+        [
+          "2026-07-25",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-07-26",
+          0
+        ],
+        [
+          "2026-07-27",
+          0
+        ],
+        [
+          "2026-07-28",
+          0
+        ],
+        [
+          "2026-07-29",
+          0
+        ],
+        [
+          "2026-07-30",
+          0
+        ],
+        [
+          "2026-07-31",
+          0
+        ],
+        [
+          "2026-08-01",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-02",
+          0
+        ],
+        [
+          "2026-08-03",
+          0
+        ],
+        [
+          "2026-08-04",
+          0
+        ],
+        [
+          "2026-08-05",
+          0
+        ],
+        [
+          "2026-08-06",
+          0
+        ],
+        [
+          "2026-08-07",
+          0
+        ],
+        [
+          "2026-08-08",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-09",
+          0
+        ],
+        [
+          "2026-08-10",
+          0
+        ],
+        [
+          "2026-08-11",
+          0
+        ],
+        [
+          "2026-08-12",
+          0
+        ],
+        [
+          "2026-08-13",
+          0
+        ],
+        [
+          "2026-08-14",
+          0
+        ],
+        [
+          "2026-08-15",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-16",
+          0
+        ],
+        [
+          "2026-08-17",
+          0
+        ],
+        [
+          "2026-08-18",
+          0
+        ],
+        [
+          "2026-08-19",
+          0
+        ],
+        [
+          "2026-08-20",
+          0
+        ],
+        [
+          "2026-08-21",
+          0
+        ],
+        [
+          "2026-08-22",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-23",
+          0
+        ],
+        [
+          "2026-08-24",
+          0
+        ],
+        [
+          "2026-08-25",
+          0
+        ],
+        [
+          "2026-08-26",
+          0
+        ],
+        [
+          "2026-08-27",
+          0
+        ],
+        [
+          "2026-08-28",
+          0
+        ],
+        [
+          "2026-08-29",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-08-30",
+          1
+        ],
+        [
+          "2026-08-31",
+          0
+        ],
+        [
+          "2026-09-01",
+          0
+        ],
+        [
+          "2026-09-02",
+          0
+        ],
+        [
+          "2026-09-03",
+          0
+        ],
+        [
+          "2026-09-04",
+          0
+        ],
+        [
+          "2026-09-05",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-09-06",
+          0
+        ],
+        [
+          "2026-09-07",
+          1
+        ],
+        [
+          "2026-09-08",
+          0
+        ],
+        [
+          "2026-09-09",
+          0
+        ],
+        [
+          "2026-09-10",
+          0
+        ],
+        [
+          "2026-09-11",
+          0
+        ],
+        [
+          "2026-09-12",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-09-13",
+          0
+        ],
+        [
+          "2026-09-14",
+          2
+        ],
+        [
+          "2026-09-15",
+          1
+        ],
+        [
+          "2026-09-16",
+          2
+        ],
+        [
+          "2026-09-17",
+          0
+        ],
+        [
+          "2026-09-18",
+          0
+        ],
+        [
+          "2026-09-19",
+          1
+        ]
+      ],
+      [
+        [
+          "2026-09-20",
+          2
+        ],
+        [
+          "2026-09-21",
+          0
+        ],
+        [
+          "2026-09-22",
+          0
+        ],
+        [
+          "2026-09-23",
+          8
+        ],
+        [
+          "2026-09-24",
+          2
+        ],
+        [
+          "2026-09-25",
+          1
+        ],
+        [
+          "2026-09-26",
+          13
+        ]
+      ],
+      [
+        [
+          "2026-09-27",
+          31
+        ],
+        [
+          "2026-09-28",
+          25
+        ],
+        [
+          "2026-09-29",
+          15
+        ],
+        [
+          "2026-09-30",
+          0
+        ],
+        [
+          "2026-10-01",
+          0
+        ],
+        [
+          "2026-10-02",
+          0
+        ],
+        [
+          "2026-10-03",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-10-04",
+          6
+        ],
+        [
+          "2026-10-05",
+          21
+        ],
+        [
+          "2026-10-06",
+          0
+        ],
+        [
+          "2026-10-07",
+          0
+        ],
+        [
+          "2026-10-08",
+          0
+        ],
+        [
+          "2026-10-09",
+          0
+        ],
+        [
+          "2026-10-10",
+          0
+        ]
+      ],
+      [
+        [
+          "2026-10-11",
+          6
+        ]
+      ]
+    ]
+  },
+  "events": [
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/projectshowcasefullstack",
+      "createdAt": "2026-10-11T09:34:15Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/Buconnect",
+      "createdAt": "2026-10-11T08:02:45Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/mrrobot-1001",
+      "createdAt": "2026-10-05T09:09:33Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/Buconnect",
+      "createdAt": "2026-10-05T09:09:25Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/Buconnect",
+      "createdAt": "2026-10-05T08:17:25Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "mrrobot-1001/projectshowcasefullstack",
+      "createdAt": "2026-10-05T07:57:21Z",
+      "commits": null,
+      "ref": "self-hosted"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/Buconnect",
+      "createdAt": "2026-10-05T06:40:28Z",
+      "commits": null,
+      "ref": "refs/heads/postgres-selfhost"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/projectshowcasefullstack",
+      "createdAt": "2026-10-05T09:09:30Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/mrrobot-1001",
+      "createdAt": "2026-10-05T08:30:50Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "mrrobot-1001/mrrobot-1001",
+      "createdAt": "2026-10-05T08:30:37Z",
+      "commits": null,
+      "ref": "main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/projectshowcasefullstack",
+      "createdAt": "2026-10-05T08:17:39Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "mrrobot-1001/projectshowcasefullstack",
+      "createdAt": "2026-10-05T07:38:41Z",
+      "commits": null,
+      "ref": "refs/heads/main"
+    }
+  ]
+}
