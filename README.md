@@ -72,5 +72,5 @@ Copy `.env.example` → `.env.local`.
 
 - `NEXT_PUBLIC_SITE_URL` for the real domain.
 - `profile.availableFor` / `profile.workModes` in `data/profile.ts` (currently Full-time · Internships, Remote · Hybrid · Onsite).
-- The live demos `showcase.kiraserver.live` and `buconnect.kiraserver.live` were returning HTTP 530 (tunnel origin down) when this was built.
+- Project Showcase and BUConnect link to their Vercel deployments; the self-hosted `showcase.kiraserver.live` and `buconnect.kiraserver.live` were returning HTTP 530 (tunnel origin down). Switch `liveUrl` back in `data/projects.ts` once they are up.
 - `public/resume.pdf` is the SDE CV and includes a phone number.

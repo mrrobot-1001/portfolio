@@ -221,6 +221,12 @@ export function Work({ projects }: { projects: Project[] }) {
                         <span className="sr-only">: {p.title} demo (opens in a new tab)</span>
                       </a>
                     )}
+                    {p.extraLinks.map((l) => (
+                      <a key={l.href} href={l.href} target="_blank" rel="noopener noreferrer" className="link-u text-paper">
+                        {l.label} <span className="arrow arrow-ne">↗</span>
+                        <span className="sr-only">: {p.title} (opens in a new tab)</span>
+                      </a>
+                    ))}
                   </div>
                 </div>
 
