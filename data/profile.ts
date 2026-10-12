@@ -57,7 +57,7 @@ export const experience: Experience[] = [
     org: "Hack2skill",
     role: "Associate Program Manager (Intern)",
     tags: ["Programs", "Developer community", "AI"],
-    location: "Remote",
+    location: "Onsite",
     points: [
       "Ran Google's Build with AI programs (PromptWars, Build with AI Bootcamp) and UniHack by Unilog end to end.",
       "Owned scope, timelines and stakeholders; worked with outreach and marketing to drive participation.",
